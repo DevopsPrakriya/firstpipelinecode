@@ -11,8 +11,3 @@ resource "azurerm_resource_group" "swapnil3" {
   name     = "swapnilrevision3"
   location = "centralus"
 }
-
-resource "azurerm_resource_group" "swapnil4" {
-  name     = "swapnilrevision4"
-  location = "centralus"
-}
